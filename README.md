@@ -1,3 +1,4 @@
-#glad2
+# glad2
 Pregenerated glad2 files
-Glad2 Loader: https://gen.glad.sh/
+
+[Glad2 Loader/Generator](https://gen.glad.sh/)
